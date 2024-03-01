@@ -6,9 +6,10 @@ FTrusts is an addon that allows others to control your characters without them i
 ## Features
 - **Whitelist Management**: Allows players to add or remove other players from the whitelist.
 - **Party Management**: Facilitates party management commands including transferring party lead, following commands, and more.
-- **Singer Management**: [Requires Singer Addon] For Bard jobs, offers commands to manage singing buffs.
-- **Autocor Management**: [Requires Autocor Addon] For Corsair jobs, provides commands to manage rolling buffs.
-- **Autogeo Management**: [Requires Autogeo Addon] For Geomancer jobs, offers commands to manage geo spells.
+- **AutoAssist Management**: [Requires AutoAssist Addon](https://github.com/ekrividus/autoAssist) For all jobs, offers ability to auto assist a given player.
+- **Singer Management**: [Requires Singer Addon](https://github.com/Ivaar/Windower-addons/tree/master/Singer) For Bard jobs, offers commands to manage singing buffs.
+- **Autocor Management**: [Requires Autocor Addon](https://github.com/Ivaar/Windower-addons/tree/master/AutoCOR) For Corsair jobs, provides commands to manage rolling buffs.
+- **Autogeo Management**: [Requires Autogeo Addon](https://github.com/Ivaar/Windower-addons/blob/master/AutoGEO/AutoGEO.lua) For Geomancer jobs, offers commands to manage geo spells.
 - **Invisibility and Sneak Commands**: Automatically cast sneak or invisible spells for White Mage and Scholar jobs.
 - **GUI Interface**: Includes a graphical user interface for easy configuration and status display.
 
