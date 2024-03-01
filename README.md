@@ -52,20 +52,20 @@ FTrusts is an addon that allows others to control your characters without them i
 - **Party Invites: (Type in tell to party leader)**
   - `inviteme`
 
-- **Singer Management: (Type in party chat) [Requires Singer addon]**
+- **Singer Management: (Type in party chat) [Requires Singer Addon](https://github.com/Ivaar/Windower-addons/tree/master/Singer)**
   - `stopsongs` - Brd will stop singing
   - `startsongs` - Brd will start singing
   - `missing song` - Brd will put a new buffersong
   - `fixclarion` - Brd will use Clarion call and restack 5th song
 
-- **Autocor Management: (Type in party chat) [Requires Autocor addon]**
+- **Autocor Management: (Type in party chat) [Requires Autocor Addon](https://github.com/Ivaar/Windower-addons/tree/master/AutoCOR)**
   - `stoprolls` - Cor will stop rolling
   - `startrolls` - Cor will start rolling
   - `sam and chaos` - Cor will change active rolls
   - `sam and cor` - Cor will change active rolls
   - `cor and chaos` - Cor will change active rolls
 
-- **Autogeo Management: (Type in party chat) [Requires Autogeo addon]**
+- **Autogeo Management: (Type in party chat) [Requires Autogeo Addon](https://github.com/Ivaar/Windower-addons/blob/master/AutoGEO/AutoGEO.lua)**
   - `startgeo` - Autogeo will turn on
   - `stopgeo` - Autogeo will turn off
   - `geo malaise` - Set Autogeo Geo spell to Malaise
@@ -77,10 +77,10 @@ FTrusts is an addon that allows others to control your characters without them i
 - **Other Commands:**
   - `invis please` - Whm/Sch will cast AOE invis
   - `sneak please` - Whm/Sch will cast AOE sneak
-  - `assiston` - Turns assist on
-  - `assiststop` - Turns assist off
-  - `assistme` - Sets player assist to whom entered command
-  - `position` - Sets new position for autoassist, if return to position is on, reposition should be off but in case it's on
+  - `assiston` - Turns assist on (Requires Silmadril. Will have your character perform `//sm all on`)
+  - `assiststop` - Turns assist off (Requires Silmadril. Will have your character perform `//sm all off`)
+  - `assistme` - Sets player assist to whom entered command [Requires AutoAssist Addon](https://github.com/ekrividus/autoAssist)
+  - `position` - Sets new position for autoassist, if return to position is on, reposition should be off but in case it's on [Requires AutoAssist Addon](https://github.com/ekrividus/autoAssist)
   - `foodup` - Will toggle gearswap autofood on, currently only works with silindrills luas
 
 ## Credits
